@@ -23,5 +23,8 @@
   "homepage": "https://github.com/EBAC-QE/ci-cd-teste-exemplo#readme",
   "dependencies": {
     "cypress": "^14.5.4"
+  },
+  "allowScripts": {
+    "cypress@14.5.4": true
   }
 }
